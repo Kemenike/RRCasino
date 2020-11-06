@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kanayo\'s App</string>
+    <string name="hello">Hello World!</string>
+    <string name="button_title">Click Here</string>
+</resources>
